@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "My first computer",
+    "content": "I remember my first computer was a 486DX with 8MB of RAM and a 40MB hard drive. It was a beast of a machine and I loved it.",
+    "writer": "John Doe"
+  },
+  {
+    "id": 2,
+    "title": "My first mobile phone",
+    "content": "My first mobile phone was a Nokia 3310. It was a great phone and I loved playing Snake on it.",
+    "writer": "John Doe"
+  },
+  {
+    "id": 3,
+    "title": "My favorite programming language",
+    "content": "My favorite programming langue is JavaScript",
+    "writer": "John Doe"
+  },
+  {
+    "id": 4,
+    "title": "My favorite TV show",
+    "content": "My favorite tv show is breaking bad",
+    "writer": "Hesienberg"
+  }
+]
